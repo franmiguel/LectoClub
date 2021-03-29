@@ -1,0 +1,38 @@
+#navi{
+    letter-spacing: 3px;
+}
+a, a:hover,a:visited{
+    color: black;
+}
+
+#busqueda{
+    width: 380px;
+    background-color:#ffffff;
+}
+.btn-lectoclub{
+    color: #0f4184;
+    background-color: #ffffff;
+
+}
+.btn-lectoclub:hover{
+    color:antiquewhite;
+    background-color: #0f4184;
+}
+.rowClassy{
+    background-color: #e43f29;
+}
+li { list-style: none; } 
+#indexText{
+    padding: 200px 10px 200px 10px;
+    font-size: 25px;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+img{
+vertical-align: middle;
+border-style: none;
+width: 400px;
+padding: 100px 0px 100px 0px;
+margin-left: 150px;
+}
